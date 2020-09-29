@@ -1,0 +1,27 @@
+.menu{
+    color: white;
+}
+td{
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.div_menu{
+    background-color: black;
+    width: 100%;
+}
+
+p{
+    text-align: justify;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+img{
+    width: 45%;
+    align-content: center;
+}
+.slider-div{
+    text-align: center;
+}
